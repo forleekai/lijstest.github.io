@@ -11,3 +11,15 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+.idea/.name
+
+.idea/lijstest.github.io.iml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
